@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao meu perfil! 😁
 
  <div>
-   <a href="https://github.com/caue-sa">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caue-sa&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caue-sa&layout=compact&langs_count=6&theme=aura_dark"/>
+   <a href="https://github.com/cauesanascimento">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cauesanascimento&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauesanascimento&layout=compact&langs_count=6&theme=aura_dark"/>
 </div>
     
 <div style="display: inline_block"><br>
